@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:background="#E6A8C5" android:padding="8dp" android:layout_width="72dp" android:layout_height="72dp"><ImageView android:id="@+id/icon" android:src="@drawable/ic_goober" android:layout_width="match_parent" android:layout_height="match_parent"/></FrameLayout>
